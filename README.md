@@ -14,9 +14,9 @@ $ npm i @predash/lar
 ## Usage
 
 ```js
-const lar = require("@predash/lar");
+const LAR = require("@predash/lar");
 
-tiny(3,[1,2,3,4]);
+LAR(3,[1,2,3,4]);
 //=> [4,1,2,3]
 
 ```
