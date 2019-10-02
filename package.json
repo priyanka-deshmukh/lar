@@ -1,0 +1,16 @@
+{
+  "name": "@predash/lar",
+  "version": "1.0.0",
+  "description": "left array rotation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array",
+    "left",
+    "rotation"
+  ],
+  "author": "Priyanka Deshmukh",
+  "license": "ISC"
+}
