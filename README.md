@@ -16,7 +16,8 @@ $ npm i @predash/lar
 ```js
 const LAR = require("@predash/lar");
 
-LAR(3,[1,2,3,4]);
+await LAR(3,[1,2,3,4]);
 //=> [4,1,2,3]
-
+await LAR(1,1); 
+//=> Please give valid arguments
 ```
